@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "nikita sarode",
+      "education": "ENG",
+      "city": "Amravti",
+      "id": 1
+    },
+    {
+      "name": "Suraj sarode",
+      "education": "12 th",
+      "city": "karanja(lad)",
+      "id": 3
+    }
+  ]
+}
